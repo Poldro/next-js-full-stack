@@ -3,4 +3,7 @@
  Typescript
  Tailwind
  Prisma
- Mysql
+ Mysql 
+
+ Zod
+ Trpc

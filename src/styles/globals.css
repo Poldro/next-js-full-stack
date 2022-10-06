@@ -4,5 +4,6 @@
 
 
  body {
-    @apply text-white bg-gray-800
+    @apply text-white;
+    background-color: rgb(22, 7, 7);
  }
